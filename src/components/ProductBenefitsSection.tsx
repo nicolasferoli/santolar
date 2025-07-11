@@ -13,31 +13,31 @@ export const ProductBenefitsSection: React.FC = () => {
     {
       title: "Método Lar Abençoado",
       description: "O guia completo para você organizar sua casa de forma prática e conectada com sua fé.",
-      image: "/public/lovable-uploads/1.webp",
+      image: "/lovable-uploads/1.webp",
       color: "from-purple-50 to-purple-100 border-purple-200"
     },
     {
       title: "Desafio de Organização – 30 Dias",
       description: "Um plano diário para criar o hábito de manter seu lar sempre limpo e acolhedor.",
-      image: "/public/lovable-uploads/2.webp",
+      image: "/lovable-uploads/2.webp",
       color: "from-blue-50 to-blue-100 border-blue-200"
     },
     {
       title: "Lista de Compras Inteligente",
       description: "Modelos prontos para otimizar suas idas ao mercado e nunca mais esquecer um item.",
-      image: "/public/lovable-uploads/3.webp",
+      image: "/lovable-uploads/3.webp",
       color: "from-green-50 to-green-100 border-green-200"
     },
     {
       title: "Guia para Tirar Manchas",
       description: "Dicas exclusivas para remover as manchas mais difíceis de roupas e tecidos.",
-      image: "/public/lovable-uploads/4.webp",
+      image: "/lovable-uploads/4.webp",
       color: "from-orange-50 to-orange-100 border-orange-200"
     },
     {
       title: "Checklist de Limpeza do Banheiro",
       description: "Um passo a passo para deixar o banheiro impecável de forma rápida e eficiente.",
-      image: "/public/lovable-uploads/5.webp",
+      image: "/lovable-uploads/5.webp",
       color: "from-cyan-50 to-cyan-100 border-cyan-200"
     }
   ];
